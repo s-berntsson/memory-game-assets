@@ -1,5 +1,5 @@
 # memory-game-assets
-Public assets for *Memory by Sanna*. See section [**Media and Rights**](https://github.com/s-berntsson/memory-game-assets/blob/main/README.md#media-and-rights) for information about rights and redistribution. 
+Public assets for *Memory by Sanna*. See section [**Media and Rights**](https://github.com/s-berntsson/memory-game-assets/blob/main/README.md#media-and-rights) for information about rights and usage. 
 
 Link to *Memory by Sanna* will be displayed here when site has been deployed.
 
