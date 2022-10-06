@@ -1,7 +1,7 @@
 # memory-game-assets
-Public assets for *Memory by Sanna*. See [**Media and Rights**](https://github.com/s-berntsson/memory-game-assets/blob/main/README.md#media-and-rights) for information about rights and redistribution. 
+Public assets for *Memory by Sanna*. See section [**Media and Rights**](https://github.com/s-berntsson/memory-game-assets/blob/main/README.md#media-and-rights) for information about rights and redistribution. 
 
-Link to site will be displayed here when sita has been deployed.
+Link to *Memory by Sanna* will be displayed here when site has been deployed.
 
 ---
 
@@ -21,4 +21,4 @@ Link to site will be displayed here when sita has been deployed.
   | Titles | Same as filenames |
   | Creator | Susanna Berntsson | 
   | License | [(CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/) |
-  | Disclaimer | Distributed by the creator (me). |
+  | Disclaimer | Original distribution by creator (me). |
