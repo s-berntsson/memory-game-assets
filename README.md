@@ -8,7 +8,7 @@ Link to *Memory by Sanna* will be displayed here when site has been deployed.
 ## Media and Rights
 
 - ### *XXI B* by Ossian Borén
-  | Filename in repository | XXI-B.mp3 |
+  | Filename in repository | [XXI-B.mp3](https://github.com/s-berntsson/memory-game-assets/blob/main/XXI-B.mp3) |
   | ----------- | ----------- |
   | Title | XXI B |
   | Creator | Ossian Borén | 
@@ -16,7 +16,7 @@ Link to *Memory by Sanna* will be displayed here when site has been deployed.
   | Disclaimer | No changes were made to the original work. |
 
 - ### Images by Susanna Berntsson
-  | Filenames in repository | about.png, by-sanna.png, gallery.png, hello.png, home.png, memory.png, music-cross.png, music-note.png, play.png, podium.png |
+  | Filenames in repository | [about.png](https://github.com/s-berntsson/memory-game-assets/blob/main/about.png), [by-sanna.png](https://github.com/s-berntsson/memory-game-assets/blob/main/by-sanna.png), [gallery.png](https://github.com/s-berntsson/memory-game-assets/blob/main/gallery.png),  [hello.png](https://github.com/s-berntsson/memory-game-assets/blob/main/hello.png), [home.png](https://github.com/s-berntsson/memory-game-assets/blob/main/home.png), [memory.png](https://github.com/s-berntsson/memory-game-assets/blob/main/memory.png), [music-cross.png](https://github.com/s-berntsson/memory-game-assets/blob/main/music-cross.png), [music-note.png](https://github.com/s-berntsson/memory-game-assets/blob/main/music-note.png),  [play.png](https://github.com/s-berntsson/memory-game-assets/blob/main/play.png), [podium.png](https://github.com/s-berntsson/memory-game-assets/blob/main/podium.png) |
   | ----------- | ----------- |
   | Titles | Same as filenames |
   | Creator | Susanna Berntsson | 
