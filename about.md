@@ -30,7 +30,8 @@ All assets used on this site (and their licenses) are listed below, under "Media
   | Disclaimer | No changes were made to the original work. | 
   
 - ### Illustrations by Susanna Berntsson
-- Original artwork by Susanna Berntsson. Copyright applies. Contact me [here](https://www.linkedin.com/in/susanna-berntsson-826003201/) if you are interested in purchasing any of my works :))
+  Original illustrations* by Susanna Berntsson. Copyright applies. Please [contact me](https://www.linkedin.com/in/susanna-berntsson-826003201/) if you are interested in purchasing any of my works :))
+  \* *those displayed on game cards and in gallery*
 
 ###
 - ### Other images by Susanna Berntsson
