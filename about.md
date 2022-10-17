@@ -14,7 +14,7 @@ Ok, storytime's over. You can get uncomfy now, if you want. Or maybe you already
 
 If you're looking for a more technical answer, look right here: This is a static web application, coded & illustrated by me (Sanna (Susanna Berntsson)), with music composed by the brilliant Ossian Borén. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template, and uses [React Router](https://reactrouter.com/en/main) for routing. 
 
-All assets used on this site (and their licenses) are listed below, under "Media and Rights". Most of them are free to use, with the exception of the illustrations used in the game/displayed in the gallery. Those are protected under copyright law. Do [contact me](https://www.instagram.com/konstigasanna/) if you are interested in using them, though! :))
+All assets used on this site (and their licenses) are listed below, under "Media and Rights". Most of them are free to use, with the exception of the illustrations used in the game/displayed in the gallery. Those are protected under copyright law. Do [contact me](https://www.linkedin.com/in/susanna-berntsson-826003201/) if you are interested in using them, though! :))
 
 ---
 
