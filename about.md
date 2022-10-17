@@ -12,7 +12,9 @@ Just to be clear: I didn't kill *any* birds. Not a single one. Zero. No birds we
 
 Ok, storytime's over. You can get uncomfy now, if you want. Or maybe you already were ... It was the bird talk, wasn't it? Darnit. I'm sorry. Really, I didn't even *look* at birds while working on this project. Or, at least I think so ... ? I might have glanced at, like ... a pigeon. There are loads of pigeons in town. Hard to avoid, really. And I don't remember all the pigeons I see or don't see. Could have seen a pigeon and forgotten about it. That sorta thing happens more than you th- ... Aw shucks, here I go again. Let's just move on ...
 
-If you're looking for a more technical answer, look right here: This is a static web application, coded & illustrated by me (Sanna (Susanna Berntsson)), with music composed by the brilliant Ossian Borén. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template, and uses [React Router](https://reactrouter.com/en/main) for routing. Most assets and their licenses are listed below, under "Media and Rights", with the exception of the actual illustrations used in the game and displayed in the gallery. Those are copyrighted. Don't steal 'em please! :))
+If you're looking for a more technical answer, look right here: This is a static web application, coded & illustrated by me (Sanna (Susanna Berntsson)), with music composed by the brilliant Ossian Borén. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template, and uses [React Router](https://reactrouter.com/en/main) for routing. 
+
+All assets used on this site (and their licenses) are listed below, under "Media and Rights". Most of them are free to use, with the exception of the illustrations used in the game/displayed in the gallery. Those are protected under copyright law. Do [contact me](https://www.instagram.com/konstigasanna/) if you are interested in using them, though! :))
 
 ---
 
@@ -25,10 +27,12 @@ If you're looking for a more technical answer, look right here: This is a static
   | Title | XXI B |
   | Creator | Ossian Borén | 
   | License | [(CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/) |
-  | Disclaimer | No changes were made to the original work. |  
+  | Disclaimer | No changes were made to the original work. | 
+  
+- ### Illustrations
 
 ###
-- ### Images by Susanna Berntsson
+- ### Other images by Susanna Berntsson
   | Files | [about.png](https://github.com/s-berntsson/memory-game-assets/blob/main/about.png), [by-sanna.png](https://github.com/s-berntsson/memory-game-assets/blob/main/by-sanna.png), [gallery.png](https://github.com/s-berntsson/memory-game-assets/blob/main/gallery.png),  [hello.png](https://github.com/s-berntsson/memory-game-assets/blob/main/hello.png), [home.png](https://github.com/s-berntsson/memory-game-assets/blob/main/home.png), [memory.png](https://github.com/s-berntsson/memory-game-assets/blob/main/memory.png), [music-cross.png](https://github.com/s-berntsson/memory-game-assets/blob/main/music-cross.png), [music-note.png](https://github.com/s-berntsson/memory-game-assets/blob/main/music-note.png),  [play.png](https://github.com/s-berntsson/memory-game-assets/blob/main/play.png), [podium.png](https://github.com/s-berntsson/memory-game-assets/blob/main/podium.png) |
   | ----------- | ----------- |
   | Titles | Same as filenames |
