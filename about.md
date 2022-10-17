@@ -29,7 +29,8 @@ All assets used on this site (and their licenses) are listed below, under "Media
   | License | [(CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/) |
   | Disclaimer | No changes were made to the original work. | 
   
-- ### Illustrations
+- ### Illustrations by Susanna Berntsson
+- Original artwork by Susanna Berntsson. Copyright applies. Contact me [here](https://www.linkedin.com/in/susanna-berntsson-826003201/) if you are interested in purchasing any of my works :))
 
 ###
 - ### Other images by Susanna Berntsson
